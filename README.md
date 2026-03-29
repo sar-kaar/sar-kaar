@@ -131,7 +131,7 @@ CYBERSECURITY ROADMAP :: sar-kaar
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sar-kaar&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sar-kaar&theme=chartreuse-dark&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41&background=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=sar-kaar&theme=chartreuse-dark&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41&background=0d1117"/>
 
 </div>
 
